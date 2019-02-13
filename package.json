@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mdx-deck": "1.8.2"
+  },
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "How to use hooks",
+  "main": "index.js",
+  "author": "Florent Lepretre <florent.lepretre@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "mdx-deck src/slides.mdx"
+  }
+}
